@@ -8,3 +8,5 @@
 1. On screens that are wider than 992px there should be 4 columns.
 1. On screens that are 992px wide or less, the columns shall resize from four columns to two columns.
 1. On screens that are 600px wide or less, the columns shall stack on top of each other instead of next to each other.
+--------------
+Just in case you lose the link: https://github.com/wi-fighters/45-uib-layout-mediaqueries3-SimonSchoetz
